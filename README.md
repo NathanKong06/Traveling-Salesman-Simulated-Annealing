@@ -92,3 +92,9 @@ Computes the total length of a given tour.
 Performs a 2-opt swap between indices i and j in a tour.
 - generate_random_points(num_cities, seed)
 Generates num_cities random points in 2D space.
+
+## Screenshots
+
+![TSP Visualization](screenshots/best_tour.png)
+![Console Output](screenshots/Console_output.png)
+![Live Graph](screenshots/Live_graph.png)
